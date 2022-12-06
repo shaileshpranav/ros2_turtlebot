@@ -1,0 +1,2 @@
+cpplint --filter=-build/c++11,+build/c++17,-build/namespaces,-build/include_order src/*.cpp
+Done processing src/walker.cpp
